@@ -1,0 +1,15 @@
+# Исходный код и зависимости (по просьбе пользователя)
+main.py
+requirements.txt
+
+# Стандартные файлы Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Виртуальные окружения
+.venv
+venv/
+env/
+ENV/
